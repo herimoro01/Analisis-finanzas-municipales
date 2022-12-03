@@ -23,6 +23,6 @@ Después, se aplican transformaciones a las tablas para poder llevar a cabo las 
 
 Finalmente, se obtiene la conclusión a partir de los halllazgos realizados.
 
-El manejo completo de los datos se realiza con Python y sus librerías Pandas, Numpy, Matplotlib y Seaborn. Lo cual se puede observar de forma completa en el Colab (archivo de python ".ipynb") de este repositorio.
+El manejo completo de los datos se realiza con Python y sus librerías Pandas, Numpy, Matplotlib y Seaborn. Lo cual se puede observar de forma completa en el Colab (archivo de python ".ipynb") de este repositorio. https://github.com/herimoro01/Analisis-finanzas-municipales/blob/main/bl01.ipynb
 
 
